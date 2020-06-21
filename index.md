@@ -3,6 +3,7 @@ title: "Week 3 Assignment"
 author: "MassaBrasil"
 date: "20 de janeiro de 2018"
 output: html_document
+
 ---
 
 ```{r setup, include=FALSE}
